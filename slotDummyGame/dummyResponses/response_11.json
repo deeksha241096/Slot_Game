@@ -1,0 +1,29 @@
+{
+    "params": [
+    {
+    "reelLayout": [
+        4,
+        8,
+        2,
+        2,
+        8,
+        8,
+        3,
+        2,
+        8,
+        7,
+        9,
+        0,
+        2,
+        9,
+        5
+    ],
+    "winningLines": {
+    "lines": [],
+    "creditsWon": 0
+    },
+    "creditsWon": 0,
+    "type": "spin"
+    }
+    ]    }
+    

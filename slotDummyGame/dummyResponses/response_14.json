@@ -1,0 +1,67 @@
+
+    
+
+
+    {
+        "params": [
+        {
+        "reelLayout": [
+            1,
+            13,
+            9,
+            2,
+            7,
+            1,
+            9,
+            7,
+            7,
+            5,
+            9,
+            8,
+            3,
+            10,
+            8
+        ],
+        "winningLines": {
+            "lines": [
+            {
+            "line": 5,
+            "creditsWon": 5,
+            "symbol": 9,
+            "count": 3,
+            "matchPositions": [
+            11,
+            7,
+            3
+            ]
+            },
+            {
+            "line": 34,
+            "creditsWon": 5,
+            "symbol": 9,
+            "count": 3,
+            "matchPositions": [
+            11,
+            7,
+            3
+            ]
+            },
+            {
+            "line": 47,
+            "creditsWon": 5,
+            "symbol": 9,
+            "count": 3,
+            "matchPositions": [
+            11,
+            7,
+            3
+            ]
+            }
+            ],
+            "creditsWon": 15
+            },
+        "creditsWon": 15,
+        "type": "spin"
+        }
+        ]    }
+        
